@@ -27,3 +27,6 @@ Open Api의 데이터를 추출/가공 하여 사용자에게 제공 ,
 - Delete <SeoulWifi_Delete.jsp>
   - 삭제 button click을 통해 SeoulWifi_History.jsp 에서 전달받은 ID와 일치하는 데이터를 삭제한다.
   - 삭제 후 SeoulWifi_History.jsp 로 reload 된다.
+
+# 사용 기술 스택
+Java, JSP, MariaDB
